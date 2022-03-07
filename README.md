@@ -1,2 +1,2 @@
 # WebApiWithJwt
-Implementação de uma webapi teste utilizando token service
+Implementando autenticação e autorização em uma webapi simples.
